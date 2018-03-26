@@ -12,6 +12,7 @@ http://www.codebind.com/cpp-tutorial/install-opencv-ubuntu-cpp/
 ## Games
 1. Level 1. [Simplest application](simple)
 2. Level 2. [Split Image on RGB channels](rgb-channels)
+3. Level 3. [Video player](video-player)
 
 ## Resources
 1. http://robocraft.ru/blog/computervision/264.html
